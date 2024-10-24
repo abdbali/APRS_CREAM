@@ -7,3 +7,5 @@ This system can be used in various applications, such as location tracking, envi
 One of the most remarkable aspects of this project is that it is programmed using MicroPython. MicroPython is a lightweight Python interpreter that runs on embedded systems, simplifying and speeding up the coding process. Instead of dealing with complex software, this solution leverages the simplicity and flexibility of Python.
 
 In summary, this low-cost APRS system is energy-efficient enough to run on a battery and offers a fully functional solution using only the NodeMCU. It’s a perfect alternative for those in the amateur radio community looking for a simple, portable, and inexpensive solution.
+
+![image](https://github.com/user-attachments/assets/c75fc0f1-9ff6-4f79-9031-a32272c90c47)
